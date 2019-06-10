@@ -1,0 +1,15 @@
+Date|Outlook|Temperature|Humidity|Windy|Result
+07-01-2014|sunny|85|85|false|Don't Play
+07-02-2014|sunny|80|90|true|Don't Play
+07-03-2014|overcast|83|78|false|Play
+07-04-2014|rain|70|96|false|Play
+07-05-2014|rain|68|80|false|Play
+07-06-2014|rain|65|70|true|Don't Play
+07-07-2014|overcast|64|65|true|Play
+07-08-2014|sunny|72|95|false|Don't Play
+07-09-2014|sunny|69|70|false|Play
+07-10-2014|rain|75|80|false|Play
+07-11-2014|sunny|75|70|true|Play
+07-12-2014|overcast|72|90|true|Play
+07-13-2014|overcast|81|75|false|Play
+07-14-2014|rain|71|80|true|Don't Play
